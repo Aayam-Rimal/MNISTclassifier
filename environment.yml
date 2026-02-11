@@ -242,4 +242,4 @@ dependencies:
     - matplotlib==3.10.8
     - pyparsing==3.3.2
 
-prefix: "/home/aayam/micromamba/envs/mnist"
+
